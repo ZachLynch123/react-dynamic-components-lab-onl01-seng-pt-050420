@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ''
+import 
 // are we missing an import?
 
 export default class BlogPost extends Component {
